@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/76/trunk/test/merged
+END
+tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/test/merged/tests.html
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/trunk/test/merged/jquery.js
+END
+DataMatrixTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/trunk/test/merged/DataMatrixTest.js
+END

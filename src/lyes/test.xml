@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart>
+	<params>
+		<title>Le titre du chart</title>
+        <xAxisTitle>Le titre des X</xAxisTitle>
+        <yAxisTitle>Le titre des Y</yAxisTitle>
+	</params>
+	<axis>
+		<xAxis>CatsWhoBlog.com</xAxis>
+		<xAxis>CatsWhoCode.com</xAxis>
+		<yAxis>Monday</yAxis>
+		<yAxis>Tuesday</yAxis>
+	</axis>
+	<values>
+		<row>
+			<value>1254</value>
+			<value>1325</value>
+		</row>
+		<row>
+			<value>1288</value>
+			<value>2015</value>
+		</row>
+	</values>
+</chart>

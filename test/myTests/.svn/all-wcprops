@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/72/trunk/test/myTests
+END
+myTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/test/myTests/myTests.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/61/trunk/test/myTests/jquery.js
+END
+myProject.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/test/myTests/myProject.js
+END
+startPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/61/trunk/test/myTests/startPoint.html
+END
